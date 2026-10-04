@@ -4,7 +4,7 @@ cd FaceTracker
 
 source venv/bin/activate
 
-python3 face_tracker.py
+python face_tracker.py
 
 
 After starting: To exit camera and close the program, press x
