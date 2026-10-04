@@ -70,7 +70,7 @@ while True:
             )
 
 
-    cv2.imshow("Face Tracker - press q to quit", frame)
+    cv2.imshow("Face Tracker - press x to quit", frame)
 
     if cv2.waitKey(1) & 0xFF == ord("x"):
         break
